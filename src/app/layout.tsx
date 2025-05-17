@@ -9,8 +9,8 @@ config.autoAddCss = false;
 
 export const metadata: Metadata = {
   title: {
-    default: "极速箱 | Jisuxiang - 高效开发工具集成平台 | 程序员必备在线工具箱",
-    template: "%s | 极速箱 | Jisuxiang"
+    default: "极速箱 | Jisuxiangs - 高效开发工具集成平台 | 程序员必备在线工具箱",
+    template: "%s | 极速箱 | Jisuxiangs"
   },
   description: "提供高效开发工具集成平台，程序员必备在线工具箱，包含JSON处理、编码转换、加密解密、时间转换等提升编程效率的神器",
   openGraph: {
